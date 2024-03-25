@@ -7,22 +7,22 @@ For this notebook, we're going to use the red wine dataset, wineQualityReds.csv.
 You're pretty familiar with the data science pipeline at this point. This project will have the following structure: 
 
 1. Sourcing and loading
-Import relevant libraries
-Load the data
-Exploring the data
-Choosing a dependent variable
+  Import relevant libraries
+  Load the data
+  Exploring the data
+  Choosing a dependent variable
 
 2. Cleaning, transforming, and visualizing
-Visualizing correlations
+  Visualizing correlations
 
 3. Modeling
-Train/Test split
-Making a Linear regression model: your first model
-Making a Linear regression model: your second model: Ordinary Least Squares (OLS)
-Making a Linear regression model: your third model: multiple linear regression
-Making a Linear regression model: your fourth model: avoiding redundancy
+  Train/Test split
+  Making a Linear regression model: your first model
+  Making a Linear regression model: your second model: Ordinary Least Squares (OLS)
+  Making a Linear regression model: your third model: multiple linear regression
+  Making a Linear regression model: your fourth model: avoiding redundancy
 
 4. Evaluating and concluding
-Reflection
+  Reflection
 Which model was best?
-Other regression algorithms
+  Other regression algorithms
